@@ -14,7 +14,7 @@ total += i
 
 
 fruits = ["apple","orange","lemon","kiwi","banana"]
-fruits.each do |fruits|
+ fruits.each do |fruits|
   puts "好きなフルーツは"+ fruits
 end
 
@@ -24,7 +24,7 @@ end_num = 100
 
 (start..end_num).each do |i|
 
-if i % 5 == 0
-    puts i
-end
+ if i % 5 == 0
+  puts i
+ end
 end
