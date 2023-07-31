@@ -8,9 +8,9 @@ end
 
 total = 0
  for i in 0..10000 
-total += i
+  total += i
  end
-  puts total
+puts total
 
 
 fruits = ["apple","orange","lemon","kiwi","banana"]
